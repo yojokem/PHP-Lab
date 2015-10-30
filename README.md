@@ -5,3 +5,5 @@ And saying some about kind of.. some other languages feature like a Java.. And C
 <?php
  echo "Let's do this! ^_^";
 ?>
+
+And my site: musscs.codns.com 'When it cannot be connect, It's closed.'
