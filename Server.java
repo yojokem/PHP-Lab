@@ -1,10 +1,11 @@
 package com.minsung.Server;
 
 import java.net.*;
+import java.io.*;
 
-public class Server extends DatagramSocket
+public class Server extends MulticastSocket
 {
-    public Server()
+    public Server() throws IOException
     {
         while(true)
         {
